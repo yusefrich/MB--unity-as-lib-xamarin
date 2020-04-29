@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{B85BA8F8-3897-451C-9B76-81DBF3ACBF5E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="xamarinunity/MainPage.xaml.cs">
+    <Files>
+      <File FileName="xamarinunity/MainPage.xaml" Line="6" Column="56" />
+      <File FileName="xamarinunity/App.xaml" Line="1" Column="1" />
+      <File FileName="xamarinunity/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="xamarinunity.iOS/AppDelegate.cs" Line="21" Column="53" />
+      <File FileName="xamarinunity/MainPage.xaml.cs" Line="8" Column="1" />
+      <File FileName="bindingUnity/ApiDefinition.cs" Line="12" Column="29" />
+      <File FileName="xamarinunity.iOS/Main.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="xamarinunity" expanded="True">
+            <Node name="bindingUnity" expanded="True">
+              <Node name="NativeReferenceFolder" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="xamarinunity" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="xamarinunity.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.xamarinunity.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.ItemProperties.xamarinunity.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.da29b434e649dd7e4b98a33d21b1524c6d14b6d2" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
